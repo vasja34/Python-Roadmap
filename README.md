@@ -824,6 +824,11 @@
 * [loguru](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 * [sentry-python](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
 * [structlog](https://www.structlog.org/en/stable/) - Structured logging made easy.
+* [Delgan/loguru](https://github.com/Delgan/loguru)
+* [Coloredlogs](https://github.com/xolox/python-coloredlogs)
+* [Sentry.io](http://sentry.io)
+* [Loggly.com](https://loggly.com)
+* [Jaeger](https://www.jaegertracing.io/)
 
 ## Machine Learning
 
@@ -914,6 +919,8 @@
   * [mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
   * [PynamoDB](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
   * [redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
+  * [Neo4j](https://Neo4j.com)
+  * [CouchDB](http://couchdb.apache.org/)
 
 ## Package Management
 
@@ -999,6 +1006,11 @@
   * [sandman2](https://github.com/jeffknupp/sandman2) - Automated REST APIs for existing database-driven systems.
   * [sanic](https://github.com/huge-success/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
   * [vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
+
+## Real-Time Communication
+
+* [SignalPy](https://pypi.org/project/SignalPy/)
+* [Socket.IO](https://python-socketio.readthedocs.io/en/latest/)
 
 ## Robotics
 
@@ -1177,6 +1189,17 @@
   * [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
   * [mimesis](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
   * [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
+* Unit, Behavior, Integration Testing
+  * [Pytest-mock](https://pypi.org/project/pytest-mock/)
+  * [Testify](https://github.com/stretchr/testify)
+  * [Doctest](https://docs.python.org/3/library/doctest.html)
+  * [Cucumber](https://cucumber.io/docs/installation/python/)
+  * [Dockertest](https://github.com/ory/dockertest)
+
+## Task Scheduling
+
+    -[scedule](https://schedule.readthedocs.io/en/stable/)
+    - [Advanced Python Scheduler](https://apscheduler.readthedocs.io/en/3.x/)
 
 ## Text Processing
 
