@@ -1198,8 +1198,8 @@
 
 ## Task Scheduling
 
-    -[scedule](https://schedule.readthedocs.io/en/stable/)
-    - [Advanced Python Scheduler](https://apscheduler.readthedocs.io/en/3.x/)
+  * [scedule](https://schedule.readthedocs.io/en/stable/)
+  * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/en/3.x/)
 
 ## Text Processing
 
